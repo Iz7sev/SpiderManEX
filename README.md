@@ -1,4 +1,4 @@
-# Web Swing Lab
+# SpiderManEX
 
 Meta Quest 3のハンドトラッキングで両手からウェブを撃つ Unity VR / MR プロジェクトです。収録バージョンは **1.14.0**（Android versionCode 24）です。
 
@@ -16,7 +16,15 @@ Meta Quest 3のハンドトラッキングで両手からウェブを撃つ Unit
 
 ## 体験動画
 
-### VR版
+### MR版 — 新しい体験映像
+
+
+
+
+https://github.com/user-attachments/assets/6a766884-a90f-4ac3-9b91-dbfee8683dec
+
+
+### VR版（旧版）
 
 **スイング（41秒）**
 
@@ -26,7 +34,7 @@ https://github.com/user-attachments/assets/9b2de374-23c0-4373-a2ec-4e46ac9bdcb7
 
 https://github.com/user-attachments/assets/735fed45-696f-434e-a9b1-0606d24f4d1c
 
-### MR版
+### MR版（旧版）
 
 **実際の部屋でオブジェクトを引っ張る（13秒）**
 
