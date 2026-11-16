@@ -16,35 +16,22 @@ Meta Quest 3のハンドトラッキングで両手からウェブを撃つ Unit
 
 ## 体験動画
 
-### MR版 — 新しい体験映像
+### VR — ビル街でのウェブスイング
 
 
 
+https://github.com/user-attachments/assets/35e81eba-d7af-46cc-b6d2-3dfc6c8469ba
+
+
+
+
+
+### MR — 体験映像
 
 https://github.com/user-attachments/assets/6a766884-a90f-4ac3-9b91-dbfee8683dec
 
-
-### VR版（旧版）
-
-**スイング（41秒）**
-
-https://github.com/user-attachments/assets/9b2de374-23c0-4373-a2ec-4e46ac9bdcb7
-
-**オブジェクトを引っ張る（33秒）**
-
-https://github.com/user-attachments/assets/735fed45-696f-434e-a9b1-0606d24f4d1c
-
-### MR版（旧版）
-
-**実際の部屋でオブジェクトを引っ張る（13秒）**
-
-https://github.com/user-attachments/assets/408cc20d-63dc-459d-9f97-a01f1b2de48c
-
-[MR版の高画質動画をダウンロード](https://github.com/Iz7sev/web-swing-lab/raw/refs/heads/main/demo.mp4)
-
-
-<img src="WebSwingIcon.png" alt="Web Swing Lab icon" width="128">
+<img src="WebSwingIcon.png" alt="SpiderManEX アイコン" width="128">
 
 ## 旧版の資料
 
-上の動画は旧版を収録したものです。[旧版の UnityProject.zip](UnityProject.zip) と [旧版の C# スナップショット](src) も参照できます。
+[旧版の UnityProject.zip](UnityProject.zip) と [旧版の C# スナップショット](src) を参照できます。
